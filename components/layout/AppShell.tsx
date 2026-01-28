@@ -23,7 +23,6 @@ export function AppShell({ children, footerConfig, pageTabs }: AppShellProps) {
       <main key={pageId} className="container mx-auto max-w-7xl pt-4 px-6 grow fade-in-soft">
         {children}
       </main>
-      <Footer config={footerConfig} />
     </div>
   );
 }
