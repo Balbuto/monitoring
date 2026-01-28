@@ -9,8 +9,8 @@ import type { PreloadData } from '../types/config';
 
 import 'dotenv/config';
 
-const DEFAULT_SITE_TITLE = 'Kuma Mieru';
-const DEFAULT_SITE_DESCRIPTION = 'A beautiful and modern uptime monitoring dashboard';
+const DEFAULT_SITE_TITLE = 'Мониторинг NS8';
+const DEFAULT_SITE_DESCRIPTION = 'Панель мониторинга NS8';
 const DEFAULT_SITE_ICON = '/icon.svg';
 
 const siteMetaSchema = z.object({
