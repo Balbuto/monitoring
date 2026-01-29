@@ -7,7 +7,7 @@
   "homepage": "https://github.com/Balbuto/monitoring",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Balbuto/monitoring/monitoring.git"
+    "url": "https://github.com/Balbuto/monitoring.git"
   },
   "private": true,
   "type": "module",
