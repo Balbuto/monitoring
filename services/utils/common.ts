@@ -2,7 +2,7 @@ import packageJson from '@/package.json';
 
 export const customFetchOptions = {
   headers: {
-    'User-Agent': `Kuma-Mieru/${packageJson.version} (https://github.com/Alice39s/kuma-mieru)`,
+    'User-Agent': `NS8 Monitoring Agent/1.0`,
     Accept: 'text/html,application/json,*/*',
     'Accept-Encoding': '', // bypass encoding
     Connection: 'keep-alive',
