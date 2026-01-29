@@ -3,8 +3,8 @@
 import { env } from './env';
 
 const baseConfig = {
-  name: 'Kuma Mieru',
-  description: 'A beautiful and modern uptime monitoring dashboard',
+  name: 'Мониторинг NS8',
+  description: 'Панель мониторинга серверов NS8',
   icon: '/icon.svg',
 } as const;
 
