@@ -14,14 +14,14 @@ import { Toaster } from 'sonner';
 
 export const metadata: Metadata = {
   title: {
-    default: 'Kuma Mieru',
-    template: siteConfig.name ? `%s - ${siteConfig.name}` : '%s - Kuma Mieru',
+    default: 'Панель мониторинга',
+    template: siteConfig.name ? `%s - ${siteConfig.name}` : '%s - Панель мониторинга',
   },
-  description: siteConfig.description || 'Kuma Mieru',
+  description: siteConfig.description || 'Панель мониторинга доступности серверов',
   icons: {
     icon: siteConfig.iconCandidates,
   },
-  generator: `https://github.com/Alice39s/kuma-mieru v${packageJson.version}`,
+  generator: `ns8.org monitoring tools`,
   formatDetection: {
     email: false,
     address: false,
