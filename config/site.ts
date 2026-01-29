@@ -74,8 +74,8 @@ export const siteConfig = {
   navItems: getVisibleNavItems(navItems),
   navMenuItems: getVisibleNavItems(navItems),
   links: {
-    github: 'https://github.com/Alice39s/kuma-mieru',
-    docs: 'https://github.com/Alice39s/kuma-mieru/blob/main/README.md',
+    github: 'hhttps://github.com/Balbuto/monitoring/',
+    docs: 'https://github.com/Balbuto/monitoring/blob/main/README.md',
   },
 } as const;
 
